@@ -1,5 +1,4 @@
 ![Beyza Nalbantoğlu](assets/profil.png)
-<img src="assets/profil.png" alt="profil" width="100" height="100">
 
 
 # GitHub Pages ile Statik Web Sitesi Oluşturma
