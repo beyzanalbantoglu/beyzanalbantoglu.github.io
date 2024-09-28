@@ -1,3 +1,5 @@
+![Beyza Nalbantoğlu](assets/profil.png)
+
 # GitHub Pages ile Statik Web Sitesi Oluşturma
 
 Bu proje, öğrencilere GitHub Pages kullanarak statik bir web sitesi nasıl oluşturulacağını öğretmek amacıyla geliştirilmiştir. 
