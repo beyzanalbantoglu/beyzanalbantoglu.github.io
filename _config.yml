@@ -1,5 +1,16 @@
 title: Beyza Nalbantoğlu
-#logo : 
-#description: Text below image
-#show dowloands : true
 theme: jekyll-theme-minimal
+
+# Menü öğelerini tanımlama
+navbar:
+  - name: "Projeler"
+    link: "/projects/"
+  - name: "Dökümantasyon"
+    link: "/documentation/"
+  - name: "Swift"
+    link: "/swift/"
+
+# Sayfa başlığı ve açıklamalar gibi ek ayarlar
+description: "Bu site projeler ve yazılım konularını içerir."
+show_downloads: true
+
