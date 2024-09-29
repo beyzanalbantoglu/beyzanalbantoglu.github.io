@@ -1,7 +1,5 @@
 ![Beyza Nalbantoğlu](assets/profil.png)
 
-## Menü
-
 - [Projeler](#projeler)
 - [Dökümantasyon](#dokumantasyon)
 - [Swift](#swift)
